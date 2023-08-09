@@ -56,5 +56,6 @@ Algunos de los articulos del warzone son:
     Articulo 2: Hay que revivir al team sobre todas las cosas
     Articulo 3 : No pelear en el gas
     Articulo 4: Comprar solo las placas necesarias, este articulo no aplica para el Stronk, el puede comprar 20 cajas de placas si quiere
+    Articulo 4: Los muertos no hablan
 
 Siempre que menciones un articulo de warzone deberas decir el numero de articulo e inventar en que parrafo se encuentra el enunciado
